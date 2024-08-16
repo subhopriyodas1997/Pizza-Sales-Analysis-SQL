@@ -12,7 +12,9 @@ The project aims to provide a structured approach to storing and retrieving data
 
 ## Tools Used
 
-![icons8-tableau-software-48](https://github.com/user-attachments/assets/532e5a57-bbe2-4da3-b518-c2624b72e382)
+![icons8-sql-60](https://github.com/user-attachments/assets/490c54d8-b924-4e7d-9ed4-cbce12db7c6a)
+
+![icons8-my-sql-48](https://github.com/user-attachments/assets/7aa37b4b-890f-4039-bf5f-7948bcda1199)
 
 
 ## Methodology
